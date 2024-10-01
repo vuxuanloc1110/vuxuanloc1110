@@ -8,8 +8,8 @@
 
 [![Github](https://img.shields.io/github/followers/vuxuanloc1110?label=Follow&style=social)](https://github.com/vuxuanloc1110)
 
-- Learning Information Technology at Can Tho Uni, Vietnam
-- Interested in Machine Learning
+- Studying Information Technology at Can Tho Uni, Vietnam
+- Interested in Machine Learning, AI
 
 ### 🖥 Skills
 
